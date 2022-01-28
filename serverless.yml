@@ -1,4 +1,4 @@
-service: xsoar-hello-world
+service: soarhelloworld
 app: soarhelloworld
 org: fvigo
 
